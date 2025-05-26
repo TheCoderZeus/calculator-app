@@ -1,4 +1,7 @@
-# CalculatorAPP
+
+
+## CalculatorAPP
+### OBS: NÃO FOI FEITO POR MIM E SIM POR UM AMIGO EXPERIENTE NA ÁREA EU APENAS DEI UMA ESTUDADA E COM PERMISSÃO DELE ESTOU POSTANDO.
 
 Um aplicativo de calculadora moderna desenvolvido em WPF (.NET 7) com design estilizado, botões animados e tema escuro.
 
@@ -21,4 +24,4 @@ Um aplicativo de calculadora moderna desenvolvido em WPF (.NET 7) com design est
 - XAML para design da interface
 
 
-OBS: NÃO FOI FEITO POR MIM E SIM POR UM AMIGO EXPERIENTE NA ÁREA EU APENAS DEI UMA ESTUDADA E COM PERMISSÃO DELE ESTOU POSTANDO.
+
