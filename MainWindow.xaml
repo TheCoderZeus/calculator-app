@@ -13,7 +13,6 @@
                  IsReadOnly="True" BorderThickness="0" Margin="0,0,0,10"/>
 
         <UniformGrid Grid.Row="1" Columns="4" Rows="5">
-            <!-- Linhas de botões -->
             <Button Content="7" Style="{StaticResource CalcButtonStyle}" Click="Button_Click"/>
             <Button Content="8" Style="{StaticResource CalcButtonStyle}" Click="Button_Click"/>
             <Button Content="9" Style="{StaticResource CalcButtonStyle}" Click="Button_Click"/>
